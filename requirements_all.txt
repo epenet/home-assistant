@@ -1902,9 +1902,6 @@ pyxeoma==1.4.1
 # homeassistant.components.qrcode
 pyzbar==0.1.7
 
-# homeassistant.components.renault
-pyze==0.6.0
-
 # homeassistant.components.zerproc
 pyzerproc==0.2.5
 
@@ -1931,6 +1928,9 @@ raspyrfm-client==1.2.8
 
 # homeassistant.components.rainmachine
 regenmaschine==3.0.0
+
+# homeassistant.components.renault
+renault-api==0.0.1
 
 # homeassistant.components.python_script
 restrictedpython==5.0

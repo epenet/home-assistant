@@ -931,9 +931,6 @@ pywebpush==1.9.2
 # homeassistant.components.wilight
 pywilight==0.0.65
 
-# homeassistant.components.renault
-pyze==0.6.0
-
 # homeassistant.components.zerproc
 pyzerproc==0.2.5
 
@@ -942,6 +939,9 @@ rachiopy==1.0.3
 
 # homeassistant.components.rainmachine
 regenmaschine==3.0.0
+
+# homeassistant.components.renault
+renault-api==0.0.1
 
 # homeassistant.components.python_script
 restrictedpython==5.0
